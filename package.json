@@ -1,0 +1,23 @@
+{
+  "name": "simple-scaffold",
+  "version": "1.0.0",
+  "description": "a simple scaffold demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handoppler37/simple-scaffold.git"
+  },
+  "keywords": [
+    "scaffold",
+    "demo"
+  ],
+  "author": "hanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handoppler37/simple-scaffold/issues"
+  },
+  "homepage": "https://github.com/handoppler37/simple-scaffold#readme"
+}
